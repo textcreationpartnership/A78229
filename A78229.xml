@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the army soberly discussed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78229</idno>
+            <idno type="STC">Wing C1013</idno>
+            <idno type="STC">Thomason E396_10</idno>
+            <idno type="STC">ESTC R201646</idno>
+            <idno type="EEBO-CITATION">99862146</idno>
+            <idno type="PROQUEST">99862146</idno>
+            <idno type="VID">114295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114295)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the army soberly discussed.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Written and printed by friends to religion, and well-wishers to the army,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>July 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114295:1"/>
+            <pb facs="tcp:114295:1" rendition="simple:additions"/>
+            <p>THE CASE OF THE ARMY SOBERLY DISCUSSED.</p>
+            <p>
+               <hi>LONDON:</hi> Written and Printed by Friends to <hi>Religion,</hi> and Well-wiſhers to the <hi>Army. July</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114295:2"/>
+            <pb n="3" facs="tcp:114295:2"/>
+            <opener>
+               <salute>Worthy Friend:</salute>
+            </opener>
+            <p>
+               <hi>YOu have asked of me, <g ref="char:V">Ʋ</g>pon what Grounds I have adhered, and do adhere ſtill, unto the Parliament in their late Warre; and yet diſavow the Army in their behaviour towards the Parliament; which many well-meaning people think warranted by the afore<g ref="char:EOLhyphen"/>going example: as alſo how I can anſwer that other Allegation,</hi> viz: <hi>that they are for the Liberty of the Subject, and are ſellicited by ſundry Petiti<g ref="char:EOLhyphen"/>ons of the Countreys; and ſome go ſo high as to ſay, That as the Parliament is above the King, ſo the people is above the Parliament; and that the Army does but act in the Name and Right of the People.</hi>
+            </p>
+            <p>To all this I ſhall anſwer as diſtinctly as I can (though a man can hardly ſpeak or write of ſo confus'd a buſineſſe, without ſome confuſion in his own minde) and clearly give you an ac<g ref="char:EOLhyphen"/>count of my thoughts in the matter, and the grounds upon which I go.</p>
+            <p>Firſt, The <hi>Parliament</hi> has an undoubted legall Authority, du<g ref="char:EOLhyphen"/>ring their Sitting, to impeach, and judge, and puniſh Delin<g ref="char:EOLhyphen"/>quents in the higheſt rank of Subjects; and to prevent, and ſup<g ref="char:EOLhyphen"/>preſſe the Power of Tyrany; as is abundantly ſhewed in Decla<g ref="char:EOLhyphen"/>rations and Treatiſes, and is Confeſſed by the King Himſelf in his Anſwer to the 19. Propoſitions. But the Army hath no kind of Right, as an Army, to do any thing but to obey their Offi<g ref="char:EOLhyphen"/>cers under the Parliament.</p>
+            <p>Secondly, The Parliaments Authority was, and is ratified by a Law, agreed to by the King; that it ſhould not be diſſolved, not adjourned but at the pleaſure of the Houſes. But the Army was Voted to be disbanded, and the times and places nominated for their disbanding their ſeverall Cegiments; and Commiſſioners from both Houſes ſent down to the firſt Rendevous, with Money to pay, and disband them; and ſo to go on to the reſt.</p>
+            <p>Thirdly, The Parliament never did pretend to be above the King, but onely to have a Power to endeavour to ſave the King<g ref="char:EOLhyphen"/>dom in time of Danger, in caſe the King would not conſent to the means of it; for which they often Petitioned him; and He
+<pb n="4" facs="tcp:114295:3"/>acknowledging the Danger, yet refuſed to conſent to the neceſ<g ref="char:EOLhyphen"/>ſary way of ſeeling of it. But the Army, when they firſt refuſed to disband, did not ſo much as pretend any other reaſon for it, but onely their own not being ſatisfied in their Demands as Souldiers: and what they have ſince preſented for Juſtice, and the Peoples Rights, do more and more appear pretended to con<g ref="char:EOLhyphen"/>ſeal ſuch Deſignes as are not yet ready for Diſcovery.</p>
+            <p>Fourthly, the Parliament never offer'd to ſeize on the Perſon of the King (or of the Prince) though they might have eaſily done it, before he went to <hi>York,</hi> but onely followed Him with Petitions after Watre proclaimed, untill he would receive no more. But the Army have dared to ſeize on the King being quiet at <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lden<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> according to the Order of both Houſes, and agree<g ref="char:EOLhyphen"/>ment of both Kingdoms, and attended by Commiſſioners from both Kingdoms; and to carry him away by force, and the Par<g ref="char:EOLhyphen"/>liaments Commiſſioners alſo as priſoners unto the Army. And though the Generall and chief Officers diſclaimed the know<g ref="char:EOLhyphen"/>ledge of it, yet they detain him ſtill, and have expreſſed ſo great diſcontent at the Houſes demanding him to be conveyed to <hi>Richmond,</hi> as amounts to an abſolute denyall; ſo as the Houſes have been conſtrained to inſiſt no longer upon His coming thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Fifthly, The Parliament are without all contradiction the Repreſentative Body of the Kingdom, ſpecially the. Houſe of Commons, being choſen by the Freeholders of the ſeveral Coun<g ref="char:EOLhyphen"/>treys, and Inhabitants of the ſeverall Towns and Cities; and the Houſe of Peers have an undenyable Right of Judicature by the Laws of the Kingdom. And withall, for the ſetling of the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> a great part of the Counties of the Kingdom did Petition them, with thouſands of hands out of every County. But the Army has no tolerable pretence at all to call themſelves the Kingdoms Army, or to Repreſent them; for the people choſe them not, but the Parliament choſe them, not to ſay with the diſcontents of multitudes of the people, and for the Petitions of ſome Countreys to the Army, as if they did make them their Repreſentees. Firſt, the Army was in actuall diſobedience againſt the Parliaments Votes for their disbanding before any one Pe<g ref="char:EOLhyphen"/>tition was brought them. Secondly, no other County has yet
+<pb n="5" facs="tcp:114295:3"/>petition'd them, but thoſe amongſt whom they were: whereas the Parliament ſitting quietly at <hi>Westminster,</hi> the Countreys took long journeys to come up in great multitudes with their Petitions to them. Thirdly, the Petitioners out of the ſeverall Counties are very few (as is very well known, eſpecially for <hi>Eſſex, Suffolk,</hi> and <hi>Norfolk</hi>) in compariſon of them that joyned not with them. And certainly, the leſſer part of a County can<g ref="char:EOLhyphen"/>not repreſent the whole County; much leſſe foure or five Coun<g ref="char:EOLhyphen"/>ties repreſent the whole Kingdom. Fourthly, there would be found, I beleeve, if they were counted aright, many more Peti<g ref="char:EOLhyphen"/>tioners out of the City of <hi>London</hi> (although they now ſeem to have forgotten it) for the disbanding of this Army, and take in with them ſome of thoſe Counties that are now ſaid to Perition to the Army for their Rights, then all the Armies Petitioners can amount too again.</p>
+            <p>Sixtly, For the Peoples being above the Parliament, and the Armies repreſenting the people (to ſpeak ſomewhat more of that which with ſome is the Great Plea for the Army) I beleeve this will never be made good by Religion, or Reaſon, or the Laws of Nature, or of any Nation, eſpecially in the ſenſe of ſome, whoſe Books talk of our Soveraign Lord the people. Firſt for Religion, there is not a ſhadow of it in all the Word of God, to make the people (even the loweſt of them) the higher Fowers: God ſaies, <hi>By me Kings reign, and Princes decree justice:</hi> By me Princes rule, and Nobles, even all the Judges of the Earth. But he ſayes no where, by me the People reign, and they are all Judges. He ſayes to the Princes and Judges, <hi>I have ſaid ye are gods:</hi> He never ſayes ſo of, or to the people. Secondly, For Reaſon, who can imagine, that ſo many millions as are in our Nation can agree to any Acts of Rule or Government, more then to chuſe in their ſeverall places Rulers and Governors (as a King, or a Parliament) who when they are once choſen, cannot be, upon any pretence of Reaſon, put from their Rule by the People, unleſſe they do in like manner agree to their putting out, as they did to their chuſing, where there is no Law to guide in it. Much leſſe can the whole people in reaſon be competent Judges of the fitneſſe to put them out, if they had any ſuch power; unleſſe the abominable wickedneſſe of ſuch Truſtees be altogether undenyably manifeſt by the facts,
+<pb n="6" facs="tcp:114295:4"/>or by uncontrollable proofs; which how far the whole people of a Nation is capable to take, and to judge of, ſo as to exerciſe ſuch rule, may eaſily appear to any ones reaſon that will exer<g ref="char:EOLhyphen"/>ciſe it. And leaſt of all can they judge of the fitneſſe of particular things to be done, when they have never heard them debated, or any reaſons againſt their own conceits reſented; or judge of the fitneſſe of a whole Army of above 20000. men to be their new Repreſentees to aw and Command their Parliament, and legall Repreſentees. Thirdly, for the Law of Nature, that gives all Authority originally to the father of a family, and where many of them agree to make a City, or Common-wealth, the reſidue of the family cannot avoid the Government agreed upon by their Fathers and Maſters, and have nothing to do to over<g ref="char:EOLhyphen"/>rule it in the leaſt, though they be ever more in numbers then the Fathers or Maſters of families. Yet the new Doctrine of the Peoples Soveraignty extends to give power to all ſervants and children grown up, as well as to their parents and maſters. And I am very much deceived, if very many in the Army (the pre<g ref="char:EOLhyphen"/>tended Repreſentees of the people) be not ſervants and Prenti<g ref="char:EOLhyphen"/>ces not yet free, and children unmarried, whoſe parents are yet living, who but in obedience to the Parliament, and for the Publick ſervice would never have ſuffered them to go from them to be Souldiers, and do not new allow of any of their dealings. Fourthly, for the Laws of Nations, there is no Story or Record of any Nation that I could ever read or hear of, where the whole multitude of the people without exception or diſtinction, had the Soveraign Power in their hands by way of exerciſe; no, not at <hi>Rome,</hi> or <hi>Athens,</hi> or the moſt Democraticall and popular Ci<g ref="char:EOLhyphen"/>ties, but certain Tribes onely, and the Free-men of thoſe Tribes: and much leſſe in large Countreys and Nations. Fiftly, I would be contented (for my part) as to my outward condition to ac<g ref="char:EOLhyphen"/>knowledge the peoples ſoveraignty (it I might not be judged as an offendor, though accuſed by the Army) till the major part of the whole people of this Nation did or could rationally take no<g ref="char:EOLhyphen"/>tice of my offence, and ſentence me for it. For to do this, they muſt either meet together all in one place (and will <hi>Salisbury-plain</hi> or any other larger place ſuffice for the meeting?) and all heat the proofs, and what witneſſes voice can reach them all?
+<pb n="7" facs="tcp:114295:4"/>or elſe if they meet but in ſeverall Counties, what place will ſuf<g ref="char:EOLhyphen"/>fice for the major part of moſt Counties in <hi>England?</hi> if you take in all the people, ſervants, and children, and labourers, and beggers, and all? And then again, unleſſe they at laſt derive their power to Repreſentees, how long time will the triall of the offence laſt what ever it be ſuppoſed, till all the Countreys of <hi>England</hi> one after another have heard the proofs, and given their ſentences. And then if my Caſe have but any difficulty in it, and ſome of the Countreys acquit me, and others condemne me; how then muſt the matter go? by the greater part of the Countreys? or rather by the greater number of the whole Na<g ref="char:EOLhyphen"/>tion ſummoned up together? and what if the ſummes be queſti<g ref="char:EOLhyphen"/>oned as not right? (as when the Pole is denyed in Elections) who ſhall judge whether the major part are againſt me or for me? unleſſe every where they pole, and all that pole ſubſcribe to a writing ſhewing their number. And then at the laſt, who ſhall be truſted to gather the Votes of all the Countreys, and give aſ<g ref="char:EOLhyphen"/>ſurances to the Nation that they deal faithfully in the ſumme, and neither acquit not condemne at their own pleaſure, but ac<g ref="char:EOLhyphen"/>cording to the Votes of the whole Nation certainly and plainly? If I might be ſecure till all this were rationally reſolved for pra<g ref="char:EOLhyphen"/>ctice, I would not fear any accuſation amongſt men. And how then can this Army with any colour pretend, that the whole Kingdom of <hi>England</hi> has Intruſted them to urge the <hi>Parliament</hi> to do them right? (which is an implicite ſentence againſt the <hi>Parliament</hi> as guilty of great Injuſtice) or demand in the name of the People of <hi>England</hi> Juſtice upon the accuſed Members of the Houſe of Commons? There are but five Counties at the moſt, out of which any have brought Petitions; and in none of thoſe Petitions (for they are Printed) are thoſe Members ac<g ref="char:EOLhyphen"/>cuſed; not yet is the Army Authorized in them to accuſe whom they pleaſe: Much leſſe is it ſaid, that thoſe Petitions were from the major part of thoſe Counties met together, or ſubſcribing ſeverally. And then how far is it (I beſeech you) from the ma<g ref="char:EOLhyphen"/>jor part of the Kingdom? and by what Authority derived from our Soveraign Lord the People, (if they will ſtill have them to called) can they ſhew their Warrant to accuſe thoſe Membe a
+<pb n="8" facs="tcp:114295:5"/>in the name of the Army? or of the People of <hi>England,</hi> as the Houſe of Commons hath by the known Law, and conſtant Cu<g ref="char:EOLhyphen"/>ſtome, to accuſe any in their own Name, and in the Name of all the Commons of <hi>England?</hi>
+            </p>
+            <p>Thus far I have given you an account of part of my Grounds on the one ſide, and the other: You may be weary of reading thus much; for I am ſure I am weary of thinking ſo long toge<g ref="char:EOLhyphen"/>ther of ſo ſtrange a buſineſſe; though I deſire to think of it with as great quietneſſe of minde as the buſineſſe will bear: of which my moderate Language will to you at leaſt (I hope) bear wit<g ref="char:EOLhyphen"/>neſſe. Another time, if you deſire it, I may tell you the Remain<g ref="char:EOLhyphen"/>der of my thoughts of this matter. Mean time, and ever, I Reſt</p>
+            <closer>
+               <signed>Your faithfull Friend.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
